@@ -1,0 +1,13 @@
+regions:
+  - region: cn-northwest-229
+    displayName: 西北-西安-雁塔超算
+    default: true
+    projects:
+      - name: cn-northwest-229
+        default: true
+    iamEndpoint: iam-pub.cn-northwest-229.yantachaosuanzhongxin.com
+    obsEndpoint: obs.cn-northwest-229.yantachaosuanzhongxin.com
+    modelartsEndpoint: modelarts.cn-northwest-229.yantachaosuanzhongxin.com
+    swrEndpoint: swr.cn-northwest-229.yantachaosuanzhongxin.com
+    consoleEndpoint: console.yantachaosuanzhongxin.com
+serviceProviderType: hcso
